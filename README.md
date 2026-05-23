@@ -41,6 +41,7 @@ Steps performed before dashboard creation:
 - **Total PHEV Vehicles:** 33,675 (22.38%)  
 
 ---
+<img width="1594" height="881" alt="Screenshot 2026-03-06 051301" src="https://github.com/user-attachments/assets/708d3c73-d60a-4691-a9f9-d0757b0e7ff1" />
 
 ## 📈 Dashboard Visualizations
 Charts used in Tableau dashboard:
